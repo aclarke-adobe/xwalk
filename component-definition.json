@@ -146,7 +146,7 @@
                 "template": {
                   "name": "Teaser",
                   "model": "teaser",
-                  "foreground_title": "New Teaset",
+                  "foreground_title": "New Teaser",
                   "foreground_titleType": "h3"
                 }
               }
